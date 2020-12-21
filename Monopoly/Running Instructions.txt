@@ -1,0 +1,7 @@
+1. The TestClass.java contains the main method
+2. For running type java TestClass in CMD or Terminal
+
+
+The game requires atleast 1680 x 1050 display resolution.
+
+The game can be played between 4 players.
